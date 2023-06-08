@@ -16,7 +16,7 @@
 /*-------------VARIABLES-------------*/
 :root {
   /* set to 'unset' to show */
-  --scrollbars: none;
+  --scrollbars: unset;
   /* user notes */
   --notes: none;
   /* direct message box */
